@@ -1,6 +1,6 @@
 <p align="center">
   <img width="148" src="./avatar.png">
-  <h2 align="center">Yeppioo.</h2>
+  <h2 align="center">Yeppioo</h2>
   <p align="center">梦想成为庄稼地里的读书人.....</p>
 </p>
 
