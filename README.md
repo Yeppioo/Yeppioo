@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="148" src="./avatar.png">
+  <img width="148" src="https://avatars.githubusercontent.com/u/216249693?v=4">
   <h2 align="center">Yeppioo</h2>
   <p align="center">梦想成为庄稼地里的读书人.....</p>
 </p>
