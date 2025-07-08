@@ -14,8 +14,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeppioo)
 
-<iframe src="https://api.yeppioo.vip/api/github/wall?username=Yeppioo&zoom=100" frameborder="0"></iframe>
-
 | ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Yeppioo&layout=compact&theme=light) | ![Yeppioo.'s GitHub Stats, Rank: A+](https://github-stats.ubrong.com/api?username=Yeppioo&show_icons=true&theme=light) |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 
