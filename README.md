@@ -4,8 +4,6 @@
   <p align="center">梦想成为庄稼地里的读书人.....</p>
 </p>
 
----
-
 <div align="center">
     <a href="https://Yeppioo.vip/">
     <img src="./w.svg" alt="Typing SVG" />
